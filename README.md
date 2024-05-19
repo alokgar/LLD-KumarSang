@@ -65,7 +65,7 @@ with few problems beforehand.
 | Low Level Design Question                                                             | Question Link to PDF / Drive                                                                                | Company Asked                     | Credits to author   |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------|
 | [Ride Sharing like App](https://github.com/kumaransg/LLD/tree/main/Ride%20Sharing%20) | [Problem Link](https://github.com/kumaransg/LLD/tree/main/Ride%20Sharing%20/RideShare_MachineCoding_Sample) | Frequently asked in all companies |                     |
-| Design Lift/Elevator | [Solution-1](https://lldcoding.com/design-lld-lift-machine-coding) | Frequently asked in all companies |                     |
+| **Design Lift/Elevator** | [Solution-1](https://lldcoding.com/design-lld-lift-machine-coding) | Frequently asked in all companies |                     |
 | Design 2048 Game | [Solution-1](https://lldcoding.com/design-lld-2048-game-machine-coding) | Frequently asked in all companies |                     |
 | Design Splitwise | [Solution-1](https://lldcoding.com/design-lld-splitwise-application-machine-coding) | Frequently asked in all companies |                     |
 | Design AWS Lambda | [Solution-1](https://lldcoding.com/design-lld-aws-lambda-machine-coding) | Frequently asked in all companies |                     |
